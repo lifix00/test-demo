@@ -4,7 +4,7 @@ import asyncio
 import os
 from urllib.parse import urlsplit
 
-BUDGET = 2.0
+BUDGET = 0.35
 MAX_ATTEMPTS = 3
 RETRY_POST = False
 MAX_CONCURRENCY = 2
