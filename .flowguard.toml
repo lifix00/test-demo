@@ -1,0 +1,4 @@
+[[checks]]
+name = "extra-compile"
+category = "tests"
+command = ["python", "-m", "py_compile", "proxy.py"]
